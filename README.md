@@ -12,3 +12,9 @@
 * HTML
 * CSS
 * Bootstrap
+## Support and Contact deatials
+{Contact me through:alex.muhia@student.moringaschool.com}
+## License
+{[MIT License]
+Copyright@2021
+Alex Karumbi}
