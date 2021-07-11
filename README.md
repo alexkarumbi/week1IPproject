@@ -8,3 +8,7 @@
 * Browse through the porfolio
 ## Known Bugs
 {There are no known bugs}
+## Technologies used
+* HTML
+* CSS
+* Bootstrap
