@@ -21,3 +21,6 @@ h2{
     padding: 10px;
     background-color: black;
 }
+.details p{
+    display: inline;
+}
