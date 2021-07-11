@@ -23,4 +23,6 @@ h2{
 }
 .details p{
     display: inline;
+    color: blue;
+
 }
