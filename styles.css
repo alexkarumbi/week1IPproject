@@ -26,3 +26,33 @@ h2{
     color: blue;
 
 }
+li{
+    display: inline;
+}
+.site-name{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3em;
+    font-weight: bold;
+    padding: 10px;
+    margin-left: 50px;
+}
+ul{
+    font-size: 20px;
+}
+nav li{
+    display: inline-block;
+    margin:0 50px;
+}
+header{
+    background-color:black;
+    color:crimson;
+}
+nav a{
+    color: crimson;
+    text-transform: uppercase;
+}
+nav a:hover{
+    color: crimson;
+    background-color: white;
+
+}
